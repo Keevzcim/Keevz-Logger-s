@@ -1,0 +1,32 @@
+{
+   "Settings": {
+       "Token": "",
+       "VoiceID": "",
+       "botDurum": "",
+       "Durum": "",
+       "Type": "STREAMING",
+       "url": ""
+
+   },
+   "Channels": {
+    "sunucugüncelleme": "",
+    "kanaloluşturma": "",
+    "kanaldüzenleme": "", 
+    "kanalsilme": "",
+    "banatma": "",
+    "bankaldırma": "", 
+    "üyerolgüncelleme": "", 
+    "botekleme": "",
+    "rololuşturma": "", 
+    "rolgüncelleme": "",
+    "rolsilme": "",
+    "webhook": "", 
+    "emojioluşturma": "",
+    "emojigüncelleme": "",
+    "emojisilme": ""
+  
+
+
+
+   }
+}
